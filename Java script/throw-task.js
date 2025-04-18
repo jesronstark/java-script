@@ -1,4 +1,4 @@
-efunction checkage(age) {
+function checkage(age) {
     try {
         if (age > 18) {
             throw new Error ("you must be be 18 or older than 18");
