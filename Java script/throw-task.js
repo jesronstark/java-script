@@ -1,6 +1,8 @@
 
 
 
+
+
 function checkage(age) {
     try {
         if (age > 18) {
