@@ -29,7 +29,6 @@
 
 
 
-
 // function person(){
 //     this.name = "jesron";
 //     this.age = function(){
