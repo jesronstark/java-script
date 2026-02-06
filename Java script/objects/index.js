@@ -1,5 +1,4 @@
 
-
 let studentData1 = [["Jack", 24], ["Sara", 23]];
 studentData1[1][2] = "hello";
 console.log(studentData1);
