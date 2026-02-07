@@ -1,6 +1,5 @@
 
 
-
 function Task(name, dueDate, num1, num2) {
     this.name = name;
     this.dueDate = dueDate;
