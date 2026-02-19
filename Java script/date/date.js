@@ -2,7 +2,6 @@
 
 
 
-
 let check = new Date("2005,03,28");
 console.log(check);
 console.log(check.getDay());
