@@ -3,7 +3,6 @@
 
 
 
-
 let car={
     name:"BmW",
     brand:"tata",
