@@ -16,7 +16,6 @@
 
 
 
-
 let info = {
     "student name": "jesron",
     Rolno: 98989898,
