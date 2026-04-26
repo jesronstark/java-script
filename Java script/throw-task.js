@@ -20,8 +20,7 @@ function checkage(age) {
         console.log("access granted");
     }
     catch (error) {
-    
-        console.log("caguht error:",error.message);
+            console.log("caguht error:",error.message);
     }
 }
 
